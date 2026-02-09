@@ -15,7 +15,7 @@ This lab covers **Markdown basics** and *C programming fundamentals*.
 ### Tasks Completed:
 - [x] Task 4: Unordered List
 - [x] Task 5: Branching
-- [ ] Task 6: Formatting Elements
+- [x] Task 6: Formatting Elements
 
 To check my current branch status, I use:
 `git branch`
